@@ -226,6 +226,5 @@ Last step! Execute the `hd-wallet-derive` library to derive `BIP32` addresses an
  ./hd-wallet-derive.php -g --key=xprv9tyUQV64JT5qs3RSTJkXCWKMyUgoQp7F3hA1xzG6ZGu6u6Q9VMNjGr67Lctvy5P8oyaYAL9CAWrUE9i6GoNMKUga5biW6Hx4tws2six3b9c --numderive=3 --preset=bitcoincore --cols=path,address --path-change
  ```
 
- ![hd-wallet-derive-execute](Images/hd-wallet-derive-execute.png)
 
 * Congratulations! The `hd-wallet-derive` library should now be working and good to go!
